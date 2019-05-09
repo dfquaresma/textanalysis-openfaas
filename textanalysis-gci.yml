@@ -6,3 +6,6 @@ functions:
     lang: node-gci
     handler: ./textanalysis
     image: dfquaresma/textanalysis:latest
+    environment:
+      text_to_analysis: "Long time no see"
+      

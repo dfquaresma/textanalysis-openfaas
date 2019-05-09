@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",  
+  "dependencies": {
+    "sentiment": "5.0.1",
+    "nano-time": "1.0.0"
+  }
 }
